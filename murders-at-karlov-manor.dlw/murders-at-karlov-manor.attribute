@@ -5,5 +5,6 @@ domain: ARENA
 architect: David Lee Wise (ROOT0) / Bridge-Burners LLC
 instance: AVAN (Claude / Anthropic)
 license: CC-BY-ND-4.0 (https://creativecommons.org/licenses/by-nd/4.0/)
-moniker: ⟦MURDERS AT KARLOV MANOR · MKM:murders-at-karlov-manor:f1fdba⟧
-seal_sha256: f1fdba2ebdedf92f3172dd70bdeeb20b9848b8c6ccdde4f9e5039a2b770c29d8
+moniker: ⟦MURDERS AT KARLOV MANOR · MKM:murders-at-karlov-manor:02154e⟧
+seal_sha256: 02154ec7af4098dd3702582162e7676357f72a12b6e7bbabdb0cef1ace70d2ba
+fingerprint: TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction
